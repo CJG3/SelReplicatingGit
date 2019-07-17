@@ -22,7 +22,7 @@ app.secret_key = APP_SECRET
 I used the following documentation and github projects as guides
 
 -Working example of what was asked for, good starting point
-https://github.com/andheroe/self-replicating-repository-1/blob/master/ 
+https://github.com/andheroe/self-replicating-repository-1
 
 -Documentation on how to register your app with github, and interact with its authorization lib
 https://developer.github.com/apps/building-oauth-apps/ 
